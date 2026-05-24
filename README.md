@@ -3,7 +3,7 @@
 Junior IT professional focused on Technical Support, Linux systems, Docker-based infrastructure labs, and cloud technologies.
 
 ## Resume
-- [Download Resume PDF](./SAMUEL JESUS RESUME.pdf)
+- [Download Resume PDF](./samuel-resume.pdf)
 
 ## Skills
 - Linux
