@@ -1,18 +1,17 @@
-# Samuel Jesus
+# Resume & Portfolio
 
-Junior IT professional focused on Technical Support, Linux systems, Docker-based infrastructure labs, and cloud technologies.
+## Quick Links
 
-## Resume
-- [Download Resume PDF](./samuel-resume.pdf)
+🌐 [Portfolio Website](https://samueljesusassmann.github.io)
 
-## Skills
-- Linux
-- Docker
-- Networking
-- Troubleshooting
-- SaaS Support
-- Documentation
+📄 [Resume PDF](./samuel-resume.pdf)
 
-## Links
-- LinkedIn: https://linkedin.com/in/samuel-jesus-assmann-de-moura
-- GitHub: https://github.com/SamuelJesusAssmann
+💻 [GitHub Profile](https://github.com/SamuelJesusAssmann)
+
+🔗 [LinkedIn](https://www.linkedin.com/in/samuel-jesus-assmann-de-moura)
+
+---
+
+This repository stores the PDF version of my resume.
+
+For projects, homelab documentation, and portfolio information, visit my portfolio website.
