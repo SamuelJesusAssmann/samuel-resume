@@ -4,7 +4,9 @@
 
 🌐 [Portfolio Website](https://samueljesusassmann.github.io)
 
-📄 [Resume PDF](./samuel-resume.pdf)
+📄 [Resume PDF (English)](./samuel-resume.pdf)
+
+📄 [PDF Currículo (PT-BR)](./CURRÍCULO.pdf)
 
 💻 [GitHub Profile](https://github.com/SamuelJesusAssmann)
 
